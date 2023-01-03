@@ -1,10 +1,25 @@
+www.jaywhangmakes.com
+
 Copyright (C) 2021 Jay Whang <jay@box.jaywhangmakes.com>
 This file is part of the project
- 
+
+COOPERATIVE NON-VIOLENT PUBLIC LICENSE v7+
+
 This website is non-violent site: you can use, redistribute,
 and/or modify it under the terms of the CNPLv7+ as found
 in the LICENSE file in the source code root directory or
 at <https://git.pixie.town/thufie/npl-builder>.
+
+Preamble
+
+The Cooperative Non-Violent Public license is a freedom-respecting sharealike
+license for both the author of a work as well as those subject to a work.
+It aims to protect the basic rights of human beings from exploitation,
+the earth from plunder, and the equal treatment of the workers involved in the
+creation of the work. It aims to ensure a copyrighted work is forever
+available for public use, modification, and redistribution under the same
+terms so long as the work is not used for harm. For more information about
+the CNPL refer to the official webpage
 
 This comes with ABSOLUTELY NO WARRANTLY, to the extent
 ermitted by applicable law. See the below for details.
