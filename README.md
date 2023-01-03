@@ -1,2 +1,3 @@
-# officialwebsite
-Official Website of Jay Whang
+#Jay Whang Makes
+
+##WELCOME TO THE OFFICIAL HOMEPAGE OF JAY WHANG
