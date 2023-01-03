@@ -1,13 +1,13 @@
-// Copyright (C) 2021 Jay Whang <jay@box.jaywhangmakes.com>
-// This file is part of the project
-// 
-// project is non-violent software: you can use, redistribute,
-// and/or modify it under the terms of the CNPLv7+ as found
-// in the LICENSE file in the source code root directory or
-// at <https://git.pixie.town/thufie/npl-builder>.
-//
-// project comes with ABSOLUTELY NO WARRANTLY, to the extent
-// permitted by applicable law. See the below for details.
+Copyright (C) 2021 Jay Whang <jay@box.jaywhangmakes.com>
+This file is part of the project
+ 
+This website is non-violent site: you can use, redistribute,
+and/or modify it under the terms of the CNPLv7+ as found
+in the LICENSE file in the source code root directory or
+at <https://git.pixie.town/thufie/npl-builder>.
+
+This comes with ABSOLUTELY NO WARRANTLY, to the extent
+ermitted by applicable law. See the below for details.
 
 THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS
 COOPERATIVE NON-VIOLENT PUBLIC LICENSE (\"LICENSE\"). THE WORK IS
