@@ -1,3 +1,3 @@
-# Jay Whang Makes
+# Jay Whang Makes Dot Com
 
 ## WELCOME TO THE OFFICIAL HOMEPAGE OF JAY WHANG
