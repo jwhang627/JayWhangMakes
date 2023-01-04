@@ -1,6 +1,6 @@
 www.jaywhangmakes.com
 
-Copyright (C) 2021 Jay Whang <jay@box.jaywhangmakes.com>
+Copyright (C) 2021 Jay Whang ~~<jay@box.jaywhangmakes.com>~~
 This file is part of the project
 
 COOPERATIVE NON-VIOLENT PUBLIC LICENSE v7+
