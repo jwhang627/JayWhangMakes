@@ -1,6 +1,6 @@
 # Jay Whang Makes Dot Com
 
-# WELCOME TO THE OFFICIAL HOMEPAGE OF JAY WHANG {style=text-align:center}
+<h1 align="center">WELCOME TO THE OFFICIAL HOMEPAGE OF JAY WHANG</h1>
 
 This website is made with [ssg](https://romanzolotarev.com/ssg.html), [lowdown](https://kristaps.bsd.lv/lowdown/), and Markdown.
 
