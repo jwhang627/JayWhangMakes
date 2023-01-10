@@ -13,7 +13,7 @@ Here are links related to me:
 * **[Darkroom](https://jaywhang.darkroom.tech)**
 * **[github](https://github.com/jwhang627)**
 * **[gitlab](https://gitlab.com/designergaze)**
-* **[notabug.org](notabug.org/designergaze)**
+* **[notabug.org](https://notabug.org/designergaze)**
 * **[Art Commission](https://jaywhang-art-commission.carrd.co/)**
 * **[Instagram](https://instagram.com/designergaze)**
 * **[Twitter](https://twitter.com/jwhangdoesstuff)**
