@@ -8,9 +8,12 @@ This website is made with [ssg](https://romanzolotarev.com/ssg.html), [lowdown](
 
 I will probably olesh it out more further through blogs, links to my works, and contact page with [Sass](https://sass-lang.com) and [zola](https://www.getzola.org).
 
-Here links related to me:
+Here are links related to me:
 * **[Portfolio](https://www.behance.net/jaywhang)**
 * **[Darkroom](https://jaywhang.darkroom.tech)**
+* **[github](https://github.com/jwhang627)**
+* **[gitlab](https://gitlab.com/designergaze)**
+* **[notabug.org](notabug.org/designergaze)**
 * **[Art Commission](https://jaywhang-art-commission.carrd.co/)**
 * **[Instagram](https://instagram.com/designergaze)**
 * **[Twitter](https://twitter.com/jwhangdoesstuff)**
