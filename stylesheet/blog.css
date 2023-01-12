@@ -12,18 +12,18 @@ h2 {
   font-size: 1.5rem;
 }
 
-nav {
+nav.menu {
   display: flex;
   text-align: center;
   justify-content: space-between;
 }
-nav ul {
+nav.menu ul {
   margin: 0;
   padding: 0;
   list-style-type: none;
   overflow: hidden;
 }
-nav ul li {
+nav.menu ul li {
   display: inline;
 }
 
