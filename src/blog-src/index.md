@@ -1,10 +1,10 @@
 # This is the index page of my blog posts
 
 <nav class="menu">
-    <ul id="links">
-        <li><a href="https://www.jaywhangmakes.com/blog">Blog Post</a></li>
-        <li><a href="https://www.jaywhangmakes.com/contact">Contact</a></li>
-    </ul>
+<ul id="links">
+<li><a href="https://www.jaywhangmakes.com/blog">Blog Post</a></li>
+<li><a href="https://www.jaywhangmakes.com/contact">Contact</a></li>
+</ul>
 </nav>
 
 Still under construction.
