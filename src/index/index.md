@@ -2,13 +2,20 @@
 
 **The site is currently under construction.**
 
-
+<!---
 Here are links to subpages:
 
 * **[Blog posts](https://www.jaywhangmakes.com/blog)**
 
 * **[Contact](https://www.jaywhangmakes.com/contact)**
+-->
 
+<nav class="menu">
+    <ul id="links">
+        <li><a href="https://www.jaywhangmakes.com/blog">Blog Post</a></li>
+        <li><a href="https://www.jaywhangmakes.com/contact">Contact</a></li>
+    </ul>
+</nav>
 
 This website is made with [ssg](https://romanzolotarev.com/ssg.html), [lowdown](https://kristaps.bsd.lv/lowdown/), and Markdown.
 
