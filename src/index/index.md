@@ -1,7 +1,5 @@
 # WELCOME TO THE OFFICIAL HOMEPAGE OF JAY WHANG
 
-**The site is currently under construction.**
-
 <!---
 Here are links to subpages:
 
@@ -16,6 +14,8 @@ Here are links to subpages:
         <li><a href="https://www.jaywhangmakes.com/contact">Contact</a></li>
     </ul>
 </nav>
+
+**This site is currently under construction.**
 
 This website is made with [ssg](https://romanzolotarev.com/ssg.html), [lowdown](https://kristaps.bsd.lv/lowdown/), and Markdown.
 
