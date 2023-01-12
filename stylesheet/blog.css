@@ -1,6 +1,7 @@
-#this-is-the-index-page-of-my-blog-posts {
+h1 {
   font-family: arial, sans-serif;
   text-align: center;
+  font-size: 2.5rem;
 }
 
 /*# sourceMappingURL=blog.css.map */
