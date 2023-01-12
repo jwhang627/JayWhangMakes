@@ -23,5 +23,8 @@ nav ul {
   list-style-type: none;
   overflow: hidden;
 }
+nav ul li {
+  display: inline;
+}
 
 /*# sourceMappingURL=contact.css.map */
