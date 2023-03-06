@@ -7,7 +7,7 @@ Here are links to subpages:
 
 * **[Contact](https://www.jaywhangmakes.com/contact)**
 
-* **[Photo](https://www.jaywhangmakes.com/photo)**
+* **[Photos](https://www.jaywhangmakes.com/photos)**
 -->
 
 <nav class="menu">
