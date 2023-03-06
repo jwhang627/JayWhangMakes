@@ -17,6 +17,7 @@ ul {
 
 nav.menu {
   text-align: center;
+  font-family: arial-bold;
 }
 nav.menu ul {
   margin: 0;
