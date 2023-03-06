@@ -6,6 +6,8 @@ Here are links to subpages:
 * **[Blog posts](https://www.jaywhangmakes.com/blog)**
 
 * **[Contact](https://www.jaywhangmakes.com/contact)**
+
+* **[Photo](https://www.jaywhangmakes.com/photo)**
 -->
 
 <nav class="menu">
