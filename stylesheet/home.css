@@ -16,18 +16,17 @@ ul {
   list-style-type: none;
 }
 
-.menu {
-  display: flex;
+nav {
   text-align: center;
   justify-content: space-between;
 }
-.menu ul {
+nav ul {
   margin: 0;
   padding: 0;
   list-style-type: none;
   overflow: hidden;
 }
-.menu ul li {
+nav ul li {
   display: inline;
 }
 
