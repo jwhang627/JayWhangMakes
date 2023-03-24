@@ -3,6 +3,7 @@ html {
 }
 
 ul {
+  display: table;
   list-style-type: none;
   margin-left: auto;
   margin-right: auto;
