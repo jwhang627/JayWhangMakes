@@ -1,6 +1,11 @@
 ul {
+  display: block;
   margin-left: auto;
   margin-right: auto;
+}
+ul img {
+  max-width: 45%;
+  height: auto;
 }
 
 h1, p {
