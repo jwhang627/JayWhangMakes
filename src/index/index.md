@@ -2,12 +2,13 @@
 
 <div class="links">
 	<a href="https://www.jaywhangmakes.com/29janvier2022"><img src="https://www.jaywhangmakes.com/link-pics/01.jpeg"></a>
-	<a href="https://www.jaywhangmakes.com/29janvier2022"><img src="https://www.jaywhangmakes.com/link-pics/02.jpeg"></a>
-	<a href="https://www.jaywhangmakes.com/29janvier2022"><img src="https://www.jaywhangmakes.com/link-pics/03.jpeg"></a>
-	<a href="https://www.jaywhangmakes.com/29janvier2022"><img src="https://www.jaywhangmakes.com/link-pics/04.jpeg"></a>
+	<a href="https://www.jaywhangmakes.com/DualisticAges"><img src="https://www.jaywhangmakes.com/link-pics/02.jpeg"></a>
+	<a href="https://www.jaywhangmakes.com/ZineLaunchParty"><img src="https://www.jaywhangmakes.com/link-pics/03.jpeg"></a>
+	<a href="https://www.jaywhangmakes.com/2ndAnnualOscarRoast"><img src="https://www.jaywhangmakes.com/link-pics/04.jpeg"></a>
 </div>
 
 ### email: jay@box.jaywhangmakes.com
+
 ### phone #: (573) 239-7499
 
 <h5> This website is made with <a href="https://romanzolotarev.com/ssg.html">ssg</a>, <a href="https://kristaps.bsd.lv/lowdown/">lowdown</a>, and Markdown.</h5>
