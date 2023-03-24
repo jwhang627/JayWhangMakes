@@ -1,3 +1,7 @@
+.links a {
+  margin-left: auto;
+  margin-right: auto;
+}
 .links img {
   max-width: 45%;
   height: auto;
@@ -6,7 +10,6 @@
 h3, h5 {
   text-align: left;
   font-family: helvetica, sans-serif;
-  font-size: 2.5rem;
 }
 
 /*# sourceMappingURL=home.css.map */
