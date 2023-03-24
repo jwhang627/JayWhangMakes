@@ -1,6 +1,9 @@
+html {
+  align: center;
+}
+
 ul {
   list-style-type: none;
-  align: center;
   margin-left: auto;
   margin-right: auto;
 }
@@ -9,7 +12,12 @@ ul img {
   height: 600;
 }
 
-h1, p {
+h1 {
+  text-align: center;
+  font-family: helvetica, sans-serif;
+}
+
+p {
   text-align: center;
   font-family: helvetica, sans-serif;
 }
