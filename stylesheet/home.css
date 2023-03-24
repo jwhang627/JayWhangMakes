@@ -1,37 +1,12 @@
-h1 {
-  text-align: center;
-  font-family: futura-bold, sans-serif;
+.links img {
+  max-width: 45%;
+  height: auto;
+}
+
+h3, h5 {
+  text-align: left;
+  font-family: helvetica, sans-serif;
   font-size: 2.5rem;
-}
-
-p {
-  font-family: arial, sans-serif;
-  font-size: 1.5rem;
-  text-align: center;
-}
-
-ul {
-  list-style-type: none;
-  text-align: center;
-}
-
-nav.menu {
-  text-align: center;
-  font-family: arial;
-  font-size: 1.5rem;
-}
-nav.menu ul {
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-  overflow: hidden;
-}
-nav.menu ul li {
-  display: inline;
-}
-
-#home {
-  font-size: 2rem;
 }
 
 /*# sourceMappingURL=home.css.map */
