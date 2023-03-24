@@ -1,14 +1,18 @@
-.links {
-  justify-content: center;
+div.links {
+  text-align: center;
 }
-.links a {
-  align: center;
+div.links a {
   margin-left: auto;
   margin-right: auto;
 }
-.links img {
+div.links img {
   max-width: 45%;
   height: auto;
+}
+
+h1 {
+  text-align: center;
+  font-family: helvetica, sans-serif;
 }
 
 h3, h5 {
