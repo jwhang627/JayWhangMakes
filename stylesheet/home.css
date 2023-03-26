@@ -1,3 +1,17 @@
+div.bio {
+  font-family: helvetica, sans-serif;
+}
+div.bio p.title {
+  font-size: 10px;
+  text-align: center;
+}
+div.bio p.description {
+  font-size: 12px;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: left;
+}
+
 div.links {
   text-align: center;
 }
