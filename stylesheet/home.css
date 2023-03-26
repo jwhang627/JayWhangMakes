@@ -1,5 +1,7 @@
 div.bio {
   font-family: helvetica, sans-serif;
+  margin-right: 80px;
+  margin-left: 80px;
 }
 div.bio p.title {
   font-size: 10px;
