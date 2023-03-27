@@ -13,6 +13,8 @@ div.bio {
 div.bio p.title {
   font-size: 16px;
   text-align: center;
+  margin-top: 30px;
+  margin-bottom: 10px;
 }
 div.bio p.description {
   font-size: 16px;
@@ -22,15 +24,29 @@ div.bio p.description {
   margin-bottom: 10px;
 }
 
-div.links {
+p.contact {
+  font-family: helvetica, sans-serif;
+  font-size: 16px;
   text-align: center;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+div.links {
+  font-family: helvetica, sans-serif;
+  font-size: 16px;
+  text-align: center;
+}
+div.links p {
+  margin-top: 30px;
+  margin-bottom: 10px;
 }
 div.links a {
   margin-left: auto;
   margin-right: auto;
 }
 div.links img {
-  max-width: 45%;
+  max-width: 25%;
   height: auto;
 }
 
