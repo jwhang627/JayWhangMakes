@@ -6,17 +6,18 @@ img.portrait {
 }
 
 div.bio {
-  font-family: helvetica, sans-serif;
   margin-right: 210px;
   margin-left: 210px;
 }
 div.bio p.title {
-  font-size: 16px;
+  font-family: helvetica, sans-serif, bold;
+  font-size: 32px;
   text-align: center;
   margin-top: 30px;
   margin-bottom: 10px;
 }
 div.bio p.description {
+  font-family: helvetica, sans-serif;
   font-size: 16px;
   vertical-align: middle;
   text-align: left;
@@ -25,8 +26,8 @@ div.bio p.description {
 }
 
 p.contact {
-  font-family: helvetica, sans-serif;
-  font-size: 16px;
+  font-family: helvetica, sans-serif, bold;
+  font-size: 32px;
   text-align: center;
   margin-top: 30px;
   margin-bottom: 10px;
