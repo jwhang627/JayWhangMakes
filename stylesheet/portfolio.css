@@ -28,5 +28,9 @@ p {
   text-align: center;
   font-family: helvetica, sans-serif;
 }
+p img {
+  width: 900;
+  height: 600;
+}
 
 /*# sourceMappingURL=portfolio.css.map */
