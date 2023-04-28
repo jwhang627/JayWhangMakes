@@ -40,6 +40,8 @@ div.links {
 div.links p {
   margin-top: 30px;
   margin-bottom: 10px;
+  font-family: helvetica, sans-serif, bold;
+  font-size: 32px;
 }
 div.links a {
   margin-left: auto;
