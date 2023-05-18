@@ -1,3 +1,7 @@
+iframe {
+  text-align: center;
+}
+
 img.portrait {
   width: 360;
   display: block;
