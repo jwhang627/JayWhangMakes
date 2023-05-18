@@ -57,8 +57,8 @@ div.links img {
   height: auto;
 }
 div.links #social {
-  max-width: 1%;
-  heigh: auto;
+  max-height: 9%;
+  width: auto;
 }
 
 h1, h3 {
