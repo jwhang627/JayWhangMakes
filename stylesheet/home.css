@@ -61,8 +61,10 @@ div.links img {
   height: auto;
 }
 div.links #social {
-  margin-left: 10px;
-  max-height: 25%;
+  max-width: 5%;
+  height: auto;
+  margin-left: 25px;
+  margin-right: 25px;
 }
 
 h1, h3 {
