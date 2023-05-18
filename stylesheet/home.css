@@ -52,6 +52,10 @@ div.links img {
   max-width: 25%;
   height: auto;
 }
+div.links #social {
+  max-width: 1%;
+  heigh: auto;
+}
 
 h1, h3 {
   text-align: center;
