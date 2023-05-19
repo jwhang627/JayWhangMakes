@@ -2,6 +2,9 @@ html {
   align: center;
 }
 
+.video {
+  margin-top: 16px;
+}
 .video iframe {
   display: block;
   margin-left: auto;
