@@ -60,7 +60,13 @@ div.links img {
   max-width: 25%;
   height: auto;
 }
-div.links #social {
+
+div.links img#darkroom {
+	max-width: 75%;
+	height: auto;
+}
+
+div.links img#social {
   max-width: 5%;
   height: auto;
   margin-left: 25px;
