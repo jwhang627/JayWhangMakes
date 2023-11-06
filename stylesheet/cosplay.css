@@ -21,12 +21,12 @@ ul {
   margin-right: auto;
 }
 
-.cosplay{
+ul.cosplay{
   width: 900;
   height: 900;
 }
 
-.no-watermark {
+ul.cosplay img #no-watermark {
   width: 900;
   height: 600;
 }
