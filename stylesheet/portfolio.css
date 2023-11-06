@@ -35,12 +35,12 @@ ul img {
   height: 600;
 }
 
-ul.cosplay img {
+.cosplay{
   width: 900;
   height: 900;
 }
 
-ul.cosplay img.no-watermark {
+.no-watermark {
   width: 900;
   height: 600;
 }
