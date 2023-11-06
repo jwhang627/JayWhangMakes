@@ -40,6 +40,11 @@ ul.cosplay img {
   height: 900;
 }
 
+ul.cosplay img.no-watermark {
+  width: 900;
+  height: 600;
+}
+
 h1 {
   text-align: center;
   font-family: helvetica, sans-serif;
