@@ -1,0 +1,46 @@
+html {
+  align: center;
+}
+
+div.description {
+  margin-right: 250px;
+  margin-left: 250px;
+}
+div.description p {
+  font-family: helvetica, sans-serif;
+  font-size: 16px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+ul {
+  display: table;
+  list-style-type: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cosplay{
+  width: 900;
+  height: 900;
+}
+
+.no-watermark {
+  width: 900;
+  height: 600;
+}
+
+h1 {
+  text-align: center;
+  font-family: helvetica, sans-serif;
+}
+
+p {
+  text-align: center;
+  font-family: helvetica, sans-serif;
+}
+p img {
+  width: 900;
+  height: 600;
+}
