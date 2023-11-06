@@ -29,9 +29,15 @@ ul {
   margin-left: auto;
   margin-right: auto;
 }
+
 ul img {
   width: 900;
   height: 600;
+}
+
+ul.cosplay img {
+  width: 900;
+  height: 900;
 }
 
 h1 {
