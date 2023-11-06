@@ -66,6 +66,11 @@ div.links img#darkroom {
   height: auto;
 }
 
+div.links img#freelance {
+  max-width: 50%;
+  height: auto;
+}
+
 div.links img#social {
   max-width: 5%;
   height: auto;
