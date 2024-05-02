@@ -59,6 +59,11 @@ p img {
   height: 600;
 }
 
+p img#selection {
+	width: 240;
+	height: 240;
+}
+
 h5 {
   text-align: left;
   font-family: helvetica, sans-serif;
